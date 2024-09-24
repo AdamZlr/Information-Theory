@@ -22,7 +22,7 @@ This project demonstrates the use of several well-known compression techniques. 
 
 ## Requirements
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
